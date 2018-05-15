@@ -16,8 +16,8 @@ span
 #paco
 {
     font-family: 'Anton', sans-serif;
-    font-size: 41px;
-    margin-top: 1em;
+    font-size: 45px;
+    line-height: 2;
 }
 
 img
@@ -25,8 +25,8 @@ img
     width: 125px;
     height: 100px;
     float: right;
-    margin: -12px;
-    padding-right: 0.5em;
+
+
 }
 
 .name

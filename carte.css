@@ -1,0 +1,61 @@
+main
+{
+    width: 30%;
+    margin: auto;
+    border-style: double;
+}
+
+span
+{
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+    color: grey;
+}
+
+#paco
+{
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    margin-top: 1em;
+}
+
+img
+{
+    width: 125px;
+    height: 100px;
+    float: right;
+    margin: -0,5em;
+}
+
+.name
+{
+padding-left: 1em;
+padding-right: 1em;
+}
+.details
+{
+    color: #cccccc;
+    font-family: 'Anton', sans-serif;
+    margin-bottom: 1em;
+    margin-top: -1em;
+}
+.number
+{
+    float: right;
+    margin: -1px;
+    font-family: 'Poppins', sans-serif;
+    padding-right: 1em;
+
+
+
+}
+.contact
+{
+    margin-top: 1em;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 1em;
+    border-style: none;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    background-color: #e6e6e6;
+}

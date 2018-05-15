@@ -2,7 +2,8 @@ main
 {
     width: 30%;
     margin: auto;
-    border-style: double;
+    border-style:inset;
+    box-shadow: 1px 1px 12px;
 }
 
 span
@@ -15,7 +16,7 @@ span
 #paco
 {
     font-family: 'Anton', sans-serif;
-    font-size: 50px;
+    font-size: 41px;
     margin-top: 1em;
 }
 
@@ -24,7 +25,8 @@ img
     width: 125px;
     height: 100px;
     float: right;
-    margin: -0,5em;
+    margin: -12px;
+    padding-right: 0.5em;
 }
 
 .name
